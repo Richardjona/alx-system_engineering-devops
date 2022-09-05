@@ -1,0 +1,13 @@
+total 44
+4 -rwxrw-r-- 1 vagrant vagrant 32 Sep  5 14:30 0-hello_world
+4 -rwxrw-r-- 1 vagrant vagrant 28 Sep  5 13:16 1-confused_smiley
+4 -rwxrw-r-- 1 vagrant vagrant 28 Sep  5 13:22 2-hellofile
+4 -rwxrw-r-- 1 vagrant vagrant 39 Sep  5 13:46 3-twofiles
+4 -rwxrw-r-- 1 vagrant vagrant 29 Sep  5 13:45 4-lastlines
+4 -rwxrw-r-- 1 vagrant vagrant 29 Sep  5 13:49 5-firstlines
+4 -rwxrw-r-- 1 vagrant vagrant 40 Sep  5 13:58 6-third_line
+4 -rwxrw-r-- 1 vagrant vagrant 72 Sep  5 15:34 7-file
+4 -rwxrw-r-- 1 vagrant vagrant 33 Sep  5 15:39 8-cwd_state
+4 -rw-rw-r-- 1 vagrant vagrant 10 Sep  5 12:59 README.md
+4 -rw-rw-r-- 1 vagrant vagrant 38 Sep  5 15:33 \*\'Best
+0 -rw-rw-r-- 1 vagrant vagrant  0 Sep  5 15:39 _cwd_content
